@@ -1,0 +1,15 @@
+D:\treinamento C#\lista-exercicios-01\exercicio06\obj\Debug\net6.0\exercicio06.csproj.AssemblyReference.cache
+D:\treinamento C#\lista-exercicios-01\exercicio06\obj\Debug\net6.0\exercicio06.GeneratedMSBuildEditorConfig.editorconfig
+D:\treinamento C#\lista-exercicios-01\exercicio06\obj\Debug\net6.0\exercicio06.AssemblyInfoInputs.cache
+D:\treinamento C#\lista-exercicios-01\exercicio06\obj\Debug\net6.0\exercicio06.AssemblyInfo.cs
+D:\treinamento C#\lista-exercicios-01\exercicio06\obj\Debug\net6.0\exercicio06.csproj.CoreCompileInputs.cache
+D:\treinamento C#\lista-exercicios-01\exercicio06\bin\Debug\net6.0\exercicio06.exe
+D:\treinamento C#\lista-exercicios-01\exercicio06\bin\Debug\net6.0\exercicio06.deps.json
+D:\treinamento C#\lista-exercicios-01\exercicio06\bin\Debug\net6.0\exercicio06.runtimeconfig.json
+D:\treinamento C#\lista-exercicios-01\exercicio06\bin\Debug\net6.0\exercicio06.dll
+D:\treinamento C#\lista-exercicios-01\exercicio06\bin\Debug\net6.0\ref\exercicio06.dll
+D:\treinamento C#\lista-exercicios-01\exercicio06\bin\Debug\net6.0\exercicio06.pdb
+D:\treinamento C#\lista-exercicios-01\exercicio06\obj\Debug\net6.0\exercicio06.dll
+D:\treinamento C#\lista-exercicios-01\exercicio06\obj\Debug\net6.0\ref\exercicio06.dll
+D:\treinamento C#\lista-exercicios-01\exercicio06\obj\Debug\net6.0\exercicio06.pdb
+D:\treinamento C#\lista-exercicios-01\exercicio06\obj\Debug\net6.0\exercicio06.genruntimeconfig.cache
